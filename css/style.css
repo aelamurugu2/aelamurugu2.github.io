@@ -234,8 +234,7 @@ input {
   padding: 11px;
   border: 1px solid #cccccc;
   border-radius: 6px;
-  font-family: "Inter", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 textarea {
@@ -243,9 +242,7 @@ textarea {
   min-height: 130px;
   border: 1px solid #cccccc;
   border-radius: 6px;
-  font-family: "Inter", sans-serif;
-  font-size: 14px;
-  resize: vertical;
+  font-size: 16px;
 }
 
 input[type="submit"] {
